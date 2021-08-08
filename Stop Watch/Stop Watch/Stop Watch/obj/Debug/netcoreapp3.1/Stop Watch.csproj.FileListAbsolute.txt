@@ -1,0 +1,12 @@
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\bin\Debug\netcoreapp3.1\Stop Watch.exe
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\bin\Debug\netcoreapp3.1\Stop Watch.deps.json
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\bin\Debug\netcoreapp3.1\Stop Watch.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\bin\Debug\netcoreapp3.1\Stop Watch.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\bin\Debug\netcoreapp3.1\Stop Watch.dll
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\bin\Debug\netcoreapp3.1\Stop Watch.pdb
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\obj\Debug\netcoreapp3.1\Stop Watch.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\obj\Debug\netcoreapp3.1\Stop Watch.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\obj\Debug\netcoreapp3.1\Stop Watch.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\obj\Debug\netcoreapp3.1\Stop Watch.dll
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\obj\Debug\netcoreapp3.1\Stop Watch.pdb
+C:\Users\ADVANCED\Desktop\New folder\Stop Watch\Stop Watch\obj\Debug\netcoreapp3.1\Stop Watch.genruntimeconfig.cache
