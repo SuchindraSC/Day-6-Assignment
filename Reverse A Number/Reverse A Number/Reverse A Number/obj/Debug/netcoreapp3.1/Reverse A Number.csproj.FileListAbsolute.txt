@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\bin\Debug\netcoreapp3.1\Reverse A Number.exe
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\bin\Debug\netcoreapp3.1\Reverse A Number.deps.json
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\bin\Debug\netcoreapp3.1\Reverse A Number.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\bin\Debug\netcoreapp3.1\Reverse A Number.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\bin\Debug\netcoreapp3.1\Reverse A Number.dll
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\bin\Debug\netcoreapp3.1\Reverse A Number.pdb
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\obj\Debug\netcoreapp3.1\Reverse A Number.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\obj\Debug\netcoreapp3.1\Reverse A Number.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\obj\Debug\netcoreapp3.1\Reverse A Number.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\obj\Debug\netcoreapp3.1\Reverse A Number.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\obj\Debug\netcoreapp3.1\Reverse A Number.dll
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\obj\Debug\netcoreapp3.1\Reverse A Number.pdb
+C:\Users\ADVANCED\Desktop\Logical Programming\Reverse A Number\Reverse A Number\obj\Debug\netcoreapp3.1\Reverse A Number.genruntimeconfig.cache
